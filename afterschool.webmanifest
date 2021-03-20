@@ -1,0 +1,13 @@
+{
+    "name": "After school club",
+    "short_name": "petstore",
+    "description": "An after school club",
+    "icons": [{
+        "src": "After-school-club.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background-color": "#B12A34"
+}
